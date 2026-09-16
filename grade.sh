@@ -18,9 +18,8 @@ elif [ $avg -ge 50 ]; then
 else
     grade="Fail"
 fi
-
-echo "Student Details: $name"
+echo "Student Name: $name"
 echo "Total: $total"
-echo "Average: $avg"
+echo "Final Average: $avg"
 echo "Grade: $grade"
 echo "Result calculated successfully"
