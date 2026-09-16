@@ -23,4 +23,10 @@ echo "Student: $name"
 echo "Total: $total"
 echo "Average: $avg"
 echo "Grade: $grade"
+if [ $avg -ge 50 ]; then
+    echo "Status: Pass"
+else
+    echo "Status: Fail"
+fi
+
 echo "Result calculated successfully"
