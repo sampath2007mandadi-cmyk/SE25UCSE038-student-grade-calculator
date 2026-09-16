@@ -19,7 +19,7 @@ else
     grade="Fail"
 fi
 
-echo "Student: $name"
+echo "Student Details: $name"
 echo "Total: $total"
 echo "Average: $avg"
 echo "Grade: $grade"
