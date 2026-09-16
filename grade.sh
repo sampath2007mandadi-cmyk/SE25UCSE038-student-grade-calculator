@@ -21,6 +21,6 @@ fi
 
 echo "Student: $name"
 echo "Total: $total"
-echo "Average: $avg"
+echo "Final Average: $avg"
 echo "Grade: $grade"
 echo "Result calculated successfully"
